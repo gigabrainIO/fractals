@@ -1,6 +1,7 @@
 P-Adisen fraktaalien analyysi on toteutettu Matti Pitkäsen sekä OpenAI ChatGPT kanssa toteuttamalla ohjelman joka visualisoi fraktaalit. Aineiston on koonnut Tuomas Sorakivi.
 
-[TGD P-Adic analysis](TGD%20P-Adic%20analysis.ipynb)
+[[TGD P-Adic analysis](TGD%20P-Adic%20analysis.ipynb)
+](https://colab.research.google.com/drive/1EH59bscrLMrKz3_aWCZGsimaVcmm3tI2?usp=sharing)
 
 Analysoidaan ohjelma puhtaasti matemaattisena konstruktiona. Ohjelma ei itse asiassa laske "aitoaa" p-adista funktiota, vaan **reaalivälistä [0,1) indusoitua diskreettiä funktiota**, joka syntyy kanonisen numerojärjestys-identifikaation kautta.
 
